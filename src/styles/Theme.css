@@ -1,0 +1,12 @@
+.theme-btn {
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  background-color: var(--primary);
+  color: #fff;
+  font-weight: bold;
+  transition: all 0.2s ease;
+}
+
+.theme-btn:hover {
+  opacity: 0.85;
+}
